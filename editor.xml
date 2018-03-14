@@ -20,7 +20,6 @@
         <entry key="XML" value="true" />
       </map>
     </option>
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="700" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
